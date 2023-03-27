@@ -1,0 +1,50 @@
+p {
+  color: rgb(4, 0, 255); 
+  background-color: rgb(255, 187, 0);
+  text-align: center;
+  margin: auto;
+  padding: 20px; 
+}
+h1 {
+  background-color:rgb(0, 204, 255); 
+  text-align: center; 
+  color: rgb(11, 31, 145);
+}
+img {
+  margin: 3px;
+}
+div {
+  background-color: cyan; 
+  padding: 40px; 
+  text-align: center; font-size: 20px;
+}
+a {
+  text-align: center;
+}
+ul {
+  text-align: center; 
+  background-color: darkcyan;
+  padding: 30px; 
+  list-style-type: none;
+}
+h2 {
+  text-align: center;
+  background-color: goldenrod;
+}
+ol {
+  text-align: center; 
+  background-color: darkcyan;
+  padding: 30px; 
+  list-style-type: none;
+  
+}
+.left {
+  float: left;
+}
+
+.center{
+  float: right;
+}
+li{
+  background-color:cyan;
+}
