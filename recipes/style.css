@@ -1,13 +1,13 @@
 p {
   color: rgb(4, 0, 255); 
   background-color: rgb(255, 187, 0);
-  text-align: center;
+  /*text-align: center;*/
   margin: auto;
   padding: 20px; 
 }
 h1 {
   background-color:rgb(0, 204, 255); 
-  text-align: center; 
+  /*text-align: center; */
   color: rgb(11, 31, 145);
 }
 img {
@@ -16,23 +16,23 @@ img {
 div {
   background-color: cyan; 
   padding: 40px; 
-  text-align: center; font-size: 20px;
+  /*text-align: center; font-size: 20px;*/
 }
 a {
-  text-align: center;
+  /*text-align: center;*/
 }
 ul {
-  text-align: center; 
+  /*text-align: center;*/ 
   background-color: darkcyan;
   padding: 30px; 
   list-style-type: none;
 }
 h2 {
-  text-align: center;
+  /*text-align: center;*/
   background-color: goldenrod;
 }
 ol {
-  text-align: center; 
+  /*text-align: center; */
   background-color: darkcyan;
   padding: 30px; 
   list-style-type: none;
@@ -47,4 +47,8 @@ ol {
 }
 li{
   background-color:cyan;
+}
+
+/*.p .h1 .div .a .ul .h2 .ol*/body { 
+  text-align: center;
 }
